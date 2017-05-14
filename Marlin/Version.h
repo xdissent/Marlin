@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "SkyNet3D-1.1.0-1"
+  #define SHORT_BUILD_VERSION "Marlin 1.1.0-1"
 
   /**
    * Verbose version identifier which should contain a reference to the location
