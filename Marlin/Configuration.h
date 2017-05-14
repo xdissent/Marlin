@@ -76,7 +76,7 @@
 // build by the user have been successfully uploaded into firmware.
 #define STRING_CONFIG_H_AUTHOR "(none, default config)" // Who made the changes.
 #define SHOW_BOOTSCREEN
-#define STRING_SPLASH_LINE1 "SkyNet3D V2.4.2 (GH)" // will be shown during bootup in line 1
+#define STRING_SPLASH_LINE1 "SkyNet3D V2.4.3 (GH)" // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 SHORT_BUILD_VERSION // will be shown during bootup in line 2
 
 //
